@@ -8,7 +8,7 @@
                         <div class="footer-head">
                             <div class="footer-logo">
                                 <a class="footer-black-logo" href="{{ route('app.home') }}"><img class="img2"
-                                        src=" {{ asset('assets/images/btz.png') }}" alt="" width="250" height="400"></a>
+                                        src=" {{ asset('assets/new_logo.png') }}" alt="" width="250" height="400"></a>
                             </div>
                             <p>
                             <p>Bitazza Invest company works in the sphere of investment. We are legally registered

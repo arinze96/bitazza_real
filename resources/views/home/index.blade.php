@@ -102,7 +102,7 @@
                         </script>
                         <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
                         </script>
-                        <h4 class="title2">Freedom Begins Here</h4>
+                        <h4 class="title2">Working For You</h4>
                         <h4 style="color: white">Start your crypto journey on the world fastest growing investment and
                             crypto trading platform. if you are seeking financial freedom this is the best platform for
                             you</h4>

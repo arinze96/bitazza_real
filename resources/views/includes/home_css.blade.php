@@ -1,5 +1,5 @@
 <!-- favicon -->
-<link rel="shortcut icon" type="image/x-icon" href="{{ asset('assets/images/just1.jpg') }}">
+<link rel="shortcut icon" type="image/x-icon" href="{{ asset('assets/new_logo.png') }}">
 
 <!-- all css here -->
 
