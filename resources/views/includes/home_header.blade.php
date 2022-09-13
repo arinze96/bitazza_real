@@ -1,7 +1,7 @@
 <nav>
     <div class="logo">
         {{-- <img src="logo.svg" alt="Logo Image"> --}}
-        <a href="{{ route('app.home') }}"><img class="img1" src="{{ asset('assets/new_logo.png') }}" alt=""  /></a>
+        <a href="{{ route('app.home') }}"><img class="img1" width="60px" height="60px" src="{{ asset('assets/new_logo.png') }}" alt=""  /></a>
     </div>
     <div class="hamburger">
         <div class="line1"></div>

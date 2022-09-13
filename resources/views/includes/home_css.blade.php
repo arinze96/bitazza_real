@@ -69,10 +69,10 @@
     }
 
     nav {
-        height: 9rem;
+        height: 10rem;
         width: 100vw;
-        background-color: #131418;
-        box-shadow: 0 3px 20px rgba(0, 0, 0, 0.2);
+        background-color: #000;
+        box-shadow: 0 3px 20px rgb(0, 0, 0);
         display: flex;
         position: fixed;
         z-index: 10;
